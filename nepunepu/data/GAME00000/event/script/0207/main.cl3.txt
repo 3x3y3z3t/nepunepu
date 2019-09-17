@@ -1,0 +1,147 @@
+―――――――――――――――――――――――――――――――――――――――― 80207001
+Is that her? The person who wants us to
+fight monsters?
+―――――――――――――――――――――――――――――――――――――――― 80207002
+She's kinda small... I was thinking
+like, a big burly man or something.
+―――――――――――――――――――――――――――――――――――――――― 80207003
+She's staring at us... Now she's
+waving... I think she's the right
+person.
+―――――――――――――――――――――――――――――――――――――――― 80207004
+I suppose she's come to the same
+conclusion about us.
+―――――――――――――――――――――――――――――――――――――――― 80207005
+So it's you girls? You're gonna take the
+work I ordered?
+―――――――――――――――――――――――――――――――――――――――― 80207006
+Are you sure you'll be okay?
+―――――――――――――――――――――――――――――――――――――――― 80207007
+More than okay. Nice to meet you. I'm
+IF. This is Compa, and that's Neptune.
+―――――――――――――――――――――――――――――――――――――――― 80207008
+Well, I guess you wouldn't have come if
+you weren't okay.
+―――――――――――――――――――――――――――――――――――――――― 80207009
+My name's Chian. I run a small factory
+called Passe.
+―――――――――――――――――――――――――――――――――――――――― 80207010
+Now, no use standing around here.
+Follow me.
+―――――――――――――――――――――――――――――――――――――――― 80207011
+Didn't you say you ran a factory? This
+place looks more like a cafeteria.
+―――――――――――――――――――――――――――――――――――――――― 80207012
+My parents run the cafeteria. The
+factory is right next door.
+―――――――――――――――――――――――――――――――――――――――― 80207013
+You'd rather speak at a cleaner place,
+right? Take a seat.
+―――――――――――――――――――――――――――――――――――――――― 80207014
+Dibs on the barstool!
+―――――――――――――――――――――――――――――――――――――――― 80207015
+With this cafeteria, you can order a
+heck load of parfaits and puddings!
+―――――――――――――――――――――――――――――――――――――――― 80207016
+That's not gonna create revenue,
+you know?
+―――――――――――――――――――――――――――――――――――――――― 80207017
+The factory isn't enough, so we make do
+with the cafeteria, too.
+―――――――――――――――――――――――――――――――――――――――― 80207018
+Sorry to intrude, but could you tell us
+the details to the work?
+―――――――――――――――――――――――――――――――――――――――― 80207019
+Sure. I need you to take care of the
+monster around the trade route.
+―――――――――――――――――――――――――――――――――――――――― 80207020
+It used to be safe, but recently, a
+large monster appeared from nowhere.
+―――――――――――――――――――――――――――――――――――――――― 80207021
+With the route unsafe, all trade has
+halted.
+―――――――――――――――――――――――――――――――――――――――― 80207022
+Bingo. This may be the work we're
+looking for. We'll take that order.
+―――――――――――――――――――――――――――――――――――――――― 80207023
+Good. With Avenir killing the market, we
+don't need any more problems.
+―――――――――――――――――――――――――――――――――――――――― 80207024
+Chian? Chian? What's this "Avenir"?
+―――――――――――――――――――――――――――――――――――――――― 80207025
+Wait, you don't know Avenir?
+―――――――――――――――――――――――――――――――――――――――― 80207026
+Yes. We just arrived in Lastation today,
+so we don't know this "Avenir."
+―――――――――――――――――――――――――――――――――――――――― 80207027
+Avenir is a major company that's pretty
+much ruling Lastation.
+―――――――――――――――――――――――――――――――――――――――― 80207028
+They make everything from goods to
+weapons, and is controlling the market.
+―――――――――――――――――――――――――――――――――――――――― 80207029
+People like me can't compete with them,
+so our products don't sell well.
+―――――――――――――――――――――――――――――――――――――――― 80207030
+And it's not like they create work. I
+know a few who closed shop already.
+―――――――――――――――――――――――――――――――――――――――― 80207031
+That's terrible. It goes against
+antitrust laws!
+―――――――――――――――――――――――――――――――――――――――― 80207032
+Didn't you talk with the CPU? It's hard
+to believe she would let this go.
+―――――――――――――――――――――――――――――――――――――――― 80207033
+Myself and others tried. But Lady Black
+Heart was away for too long...
+―――――――――――――――――――――――――――――――――――――――― 80207034
+Avenir placed their goons in the
+Basilicom. Now they pretty much own it.
+―――――――――――――――――――――――――――――――――――――――― 80207035
+Such a waste, since Lady Black Heart
+just returned from Celestia...
+―――――――――――――――――――――――――――――――――――――――― 80207036
+Avenir won't let us near the Lady at
+all.
+―――――――――――――――――――――――――――――――――――――――― 80207037
+So, Avenir IS bad! Everyone is
+suffering because of them, right?
+―――――――――――――――――――――――――――――――――――――――― 80207038
+They're not just "bad"! They're
+monsters!
+―――――――――――――――――――――――――――――――――――――――― 80207039
+I see... So that explains the treatment
+we got back at the Basilicom.
+―――――――――――――――――――――――――――――――――――――――― 80207040
+So I guess we can't meet the goddess
+through the Basilicom then, can we?
+―――――――――――――――――――――――――――――――――――――――― 80207041
+How about we barge into where the CPU
+Lady Black Hearth lives?
+―――――――――――――――――――――――――――――――――――――――― 80207042
+We could get info on the Key Fragment,
+AND help Chian. What a bargain!
+―――――――――――――――――――――――――――――――――――――――― 80207043
+Okay, Nep-Nep! Let's go on stealth and
+stand by at Lady Black Hearth's room.
+―――――――――――――――――――――――――――――――――――――――― 80207044
+Lady Black H-e-a-r-t, not Lady Black
+Hearth.
+―――――――――――――――――――――――――――――――――――――――― 80207045
+But, if you don't know where the Lady
+is, the guards will just spot you.
+―――――――――――――――――――――――――――――――――――――――― 80207046
+Well? We have to try, right?
+―――――――――――――――――――――――――――――――――――――――― 80207047
+I'm more the type to try and fail
+instead of not trying at all.
+―――――――――――――――――――――――――――――――――――――――― 80207048
+Not this time, Nep. If we play this
+wrong, we'll never meet the Lady.
+―――――――――――――――――――――――――――――――――――――――― 80207049
+And if that happens, we'll be harming
+Chian and folks more than they need.
+―――――――――――――――――――――――――――――――――――――――― 80207050
+Let's take care of Chian's order first.
+Let's take it in steps, okay?
+―――――――――――――――――――――――――――――――――――――――― EOF

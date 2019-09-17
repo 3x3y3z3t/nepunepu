@@ -1,0 +1,54 @@
+―――――――――――――――――――――――――――――――――――――――― 80203001
+Hey, Iffy, are we there yet?
+―――――――――――――――――――――――――――――――――――――――― 80203002
+That's odd... I'm pretty sure it was in
+this direction...
+―――――――――――――――――――――――――――――――――――――――― 80203003
+Don't tell me we're lost.
+―――――――――――――――――――――――――――――――――――――――― 80203004
+I hope not, but it's been a while since
+I came. Let's ask someone.
+―――――――――――――――――――――――――――――――――――――――― 80203005
+Well, how about that I'm-going-on-an-
+adventure-looking person there?
+―――――――――――――――――――――――――――――――――――――――― 80203006
+Hello-! You with the red hair.
+―――――――――――――――――――――――――――――――――――――――― 80203007
+Hm? What is it?
+―――――――――――――――――――――――――――――――――――――――― 80203008
+I want to meet Lady Black Heart, but can
+you tell me where to go to meet her?
+―――――――――――――――――――――――――――――――――――――――― 80203009
+Lady Black Heart? Oh, you mean Lady
+Noire.
+―――――――――――――――――――――――――――――――――――――――― 80203010
+Well, just head down this path, take a
+right, and you'll find the Basilicom.
+―――――――――――――――――――――――――――――――――――――――― 80203011
+Looks like the general direction was
+correct. Thank you.
+―――――――――――――――――――――――――――――――――――――――― 80203012
+Got to help each other in need, right?
+―――――――――――――――――――――――――――――――――――――――― 80203013
+Well, since we've met, do you mind if I
+ask you your name?
+―――――――――――――――――――――――――――――――――――――――― 80203014
+My name is Neptune! This here is Compa
+and Iffy.
+―――――――――――――――――――――――――――――――――――――――― 80203015
+My name is Falcom. I'm a newbie
+adventurer.
+―――――――――――――――――――――――――――――――――――――――― 80203016
+If you're in a pickle and you need help,
+just give me a holler.
+―――――――――――――――――――――――――――――――――――――――― 80203017
+Really?!
+―――――――――――――――――――――――――――――――――――――――― 80203018
+Thanks. Oh, we're in a hurry, so we have
+to run. Hope we meet again soon.
+―――――――――――――――――――――――――――――――――――――――― 80203019
+Yeah, see you again.
+―――――――――――――――――――――――――――――――――――――――― 80203020
+Whew... What a surprise. I didn't expect
+to meet them in this realm...
+―――――――――――――――――――――――――――――――――――――――― EOF

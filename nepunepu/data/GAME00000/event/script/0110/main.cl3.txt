@@ -1,0 +1,24 @@
+―――――――――――――――――――――――――――――――――――――――― 80110001
+Say, Compa? What are we supposed to do
+here?
+―――――――――――――――――――――――――――――――――――――――― 80110002
+Nep-Nep... You didn't read the fine
+print, did you?
+―――――――――――――――――――――――――――――――――――――――― 80110003
+Oh, come on! No one reads the fine
+print! Never have, never will!
+―――――――――――――――――――――――――――――――――――――――― 80110004
+That's nothing to brag about...
+―――――――――――――――――――――――――――――――――――――――― 80110005
+It looks like we have to check on the
+monsters and what they're doing.
+―――――――――――――――――――――――――――――――――――――――― 80110006
+Speaking of monsters. That huge monster
+is somewhere out here, right?
+―――――――――――――――――――――――――――――――――――――――― 80110007
+A lot of other people came here already,
+so I'm sure it went away.
+―――――――――――――――――――――――――――――――――――――――― 80110008
+Whew, that's a relief. No way I want to
+see that thing again.
+―――――――――――――――――――――――――――――――――――――――― EOF

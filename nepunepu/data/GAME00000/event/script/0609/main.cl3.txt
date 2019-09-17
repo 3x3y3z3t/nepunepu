@@ -1,0 +1,60 @@
+―――――――――――――――――――――――――――――――――――――――― 80609017
+IF? You found Planeptune's Key Fragment
+here, right?
+―――――――――――――――――――――――――――――――――――――――― 80609018
+Yes.
+―――――――――――――――――――――――――――――――――――――――― 80609019
+...I see.
+―――――――――――――――――――――――――――――――――――――――― 80609020
+What's the matter, Noire?
+―――――――――――――――――――――――――――――――――――――――― 80609021
+Hm... Just a hunch, but something isn't
+right here.
+―――――――――――――――――――――――――――――――――――――――― 80609022
+You mean about a hidden path?
+―――――――――――――――――――――――――――――――――――――――― 80609023
+Yes. I can't really tell what's bugging
+me, though...
+―――――――――――――――――――――――――――――――――――――――― 80609024
+Oh, that happens to me, too. It can take
+your attention away from stuff.
+―――――――――――――――――――――――――――――――――――――――― 80609025
+...Huh?
+―――――――――――――――――――――――――――――――――――――――― 80609026
+Hm? What's the matter, Nep? That's a
+dead end there.
+―――――――――――――――――――――――――――――――――――――――― 80609027
+Iffy, this is weird. I feel a breeze
+coming from the dead end.
+―――――――――――――――――――――――――――――――――――――――― 80609028
+What?!
+―――――――――――――――――――――――――――――――――――――――― 80609029
+...It's true. I can feel the wind
+flowing from the dead end.
+―――――――――――――――――――――――――――――――――――――――― 80609030
+Maybe...
+―――――――――――――――――――――――――――――――――――――――― 80609031
+Lady Blanc disappeared into the wall!
+―――――――――――――――――――――――――――――――――――――――― 80609032
+This wall is an illusion...
+―――――――――――――――――――――――――――――――――――――――― 80609033
+There's a path ahead. Maybe this is the
+dungeon we've been looking for.
+―――――――――――――――――――――――――――――――――――――――― 80609034
+I didn't expect it to be hidden here...
+I didn't even notice.
+―――――――――――――――――――――――――――――――――――――――― 80609035
+Nep-Nep, you did it!
+―――――――――――――――――――――――――――――――――――――――― 80609036
+Heh, don't mention it. I'll just have a
+bucket of pudding as a reward!
+―――――――――――――――――――――――――――――――――――――――― 80609037
+Don't get too excited just yet... But
+still, I guess you deserve it.
+―――――――――――――――――――――――――――――――――――――――― 80609038
+Yahoo! A bucket-o-puddin' for me! I
+guess it was worth asking for one!
+―――――――――――――――――――――――――――――――――――――――― 80609039
+First, we check ahead. I bet Histoire
+is somewhere around there.
+―――――――――――――――――――――――――――――――――――――――― EOF
