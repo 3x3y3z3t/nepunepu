@@ -1,0 +1,606 @@
+―――――――――――――――――――――――――――――――――――――――― 10000
+－
+―――――――――――――――――――――――――――――――――――――――― 20000
+
+―――――――――――――――――――――――――――――――――――――――― 30000
+
+―――――――――――――――――――――――――――――――――――――――― 40000
+
+―――――――――――――――――――――――――――――――――――――――― 50000
+
+―――――――――――――――――――――――――――――――――――――――― 60000
+
+―――――――――――――――――――――――――――――――――――――――― 70000
+
+―――――――――――――――――――――――――――――――――――――――― 80000
+
+―――――――――――――――――――――――――――――――――――――――― 90000
+
+―――――――――――――――――――――――――――――――――――――――― 10001
+Battle Controls
+―――――――――――――――――――――――――――――――――――――――― 20001
+During battle, you are free to move.
+Use the left stick to move, and use the
+A button to unleash a normal attack.
+―――――――――――――――――――――――――――――――――――――――― 30001
+Once you have set additional attack
+commands, you can perform Combo Attacks
+with the A, X, or Y buttons.
+―――――――――――――――――――――――――――――――――――――――― 40001
+The Y button is for hits, the X button
+is for power, and the A button is for
+breaking the enemy's guard.
+―――――――――――――――――――――――――――――――――――――――― 50001
+
+―――――――――――――――――――――――――――――――――――――――― 60001
+
+―――――――――――――――――――――――――――――――――――――――― 70001
+
+―――――――――――――――――――――――――――――――――――――――― 80001
+
+―――――――――――――――――――――――――――――――――――――――― 90001
+
+―――――――――――――――――――――――――――――――――――――――― 10002
+SP Skills
+―――――――――――――――――――――――――――――――――――――――― 20002
+Pressing the Y button during your turn
+in battle will bring up the Skill menu.
+Skills use SP to use powerful attacks.
+―――――――――――――――――――――――――――――――――――――――― 30002
+Also, even after a target is in range,
+you can continue to move, so
+position yourself effectively.
+―――――――――――――――――――――――――――――――――――――――― 40002
+
+―――――――――――――――――――――――――――――――――――――――― 50002
+
+―――――――――――――――――――――――――――――――――――――――― 60002
+
+―――――――――――――――――――――――――――――――――――――――― 70002
+
+―――――――――――――――――――――――――――――――――――――――― 80002
+
+―――――――――――――――――――――――――――――――――――――――― 90002
+
+―――――――――――――――――――――――――――――――――――――――― 10003
+EXE Drive Gauge
+―――――――――――――――――――――――――――――――――――――――― 20003
+In addition to EX Finishers, the EXE
+Drive Gauge allows you to access
+the CPUs' EXE Drive Skills.
+―――――――――――――――――――――――――――――――――――――――― 30003
+These attacks differ from EX Finishers
+in that the built up EXE Drive Gauge
+is expended when these attacks are used.
+―――――――――――――――――――――――――――――――――――――――― 40003
+Once the EXE Drive Gauge is built up,
+access the EXE Drive Skill menu with
+the X button.
+―――――――――――――――――――――――――――――――――――――――― 50003
+There are not many EXE Drive Skills at
+first, but in the near future, they
+should be able to access more attacks.
+―――――――――――――――――――――――――――――――――――――――― 60003
+
+―――――――――――――――――――――――――――――――――――――――― 70003
+
+―――――――――――――――――――――――――――――――――――――――― 80003
+
+―――――――――――――――――――――――――――――――――――――――― 90003
+
+―――――――――――――――――――――――――――――――――――――――― 10004
+EX Finishers
+―――――――――――――――――――――――――――――――――――――――― 20004
+Your EXE Drive Gauge and EX Finisher
+have been unlocked for use.
+―――――――――――――――――――――――――――――――――――――――― 30004
+Depending on the EXE Drive Gauge's
+level, an additional attack, the
+EX Finisher, can be used.
+―――――――――――――――――――――――――――――――――――――――― 40004
+If the EXE Drive Gauge is at or over a
+set level, the EX Finisher selection
+menu will display at the end of a combo.
+―――――――――――――――――――――――――――――――――――――――― 50004
+A partner character in the back row with
+a Lily Rank above a set level, can join
+a EX Finisher. This is called an Assist.
+―――――――――――――――――――――――――――――――――――――――― 60004
+The EXE Drive Gauge will increase as
+you give or take damage. To charge the
+gauge quickly, focus on Rush attacks.
+―――――――――――――――――――――――――――――――――――――――― 70004
+
+―――――――――――――――――――――――――――――――――――――――― 80004
+
+―――――――――――――――――――――――――――――――――――――――― 90004
+
+―――――――――――――――――――――――――――――――――――――――― 10005
+Guard Break
+―――――――――――――――――――――――――――――――――――――――― 20005
+In addition to reducing the enemy HP,
+attacks also inflict damage to the
+enemy's Guard Point (GP) gauge.
+―――――――――――――――――――――――――――――――――――――――― 30005
+When this gauge is depleted, the enemy's
+guard is broken and will take greater
+damage. Break guards for max damage.
+―――――――――――――――――――――――――――――――――――――――― 40005
+
+―――――――――――――――――――――――――――――――――――――――― 50005
+
+―――――――――――――――――――――――――――――――――――――――― 60005
+
+―――――――――――――――――――――――――――――――――――――――― 70005
+
+―――――――――――――――――――――――――――――――――――――――― 80005
+
+―――――――――――――――――――――――――――――――――――――――― 90005
+
+―――――――――――――――――――――――――――――――――――――――― 10006
+Escaping
+―――――――――――――――――――――――――――――――――――――――― 20006
+Hug the edge of the field to access the
+Flee command. Be careful since some
+battles will not allow you to escape.
+―――――――――――――――――――――――――――――――――――――――― 30006
+
+―――――――――――――――――――――――――――――――――――――――― 40006
+
+―――――――――――――――――――――――――――――――――――――――― 50006
+
+―――――――――――――――――――――――――――――――――――――――― 60006
+
+―――――――――――――――――――――――――――――――――――――――― 70006
+
+―――――――――――――――――――――――――――――――――――――――― 80006
+
+―――――――――――――――――――――――――――――――――――――――― 90006
+
+―――――――――――――――――――――――――――――――――――――――― 10007
+Activating HDD
+―――――――――――――――――――――――――――――――――――――――― 20007
+By sacrificing 20 percent of their max
+SP, Neptune and the others can activate
+their CPU forms.
+―――――――――――――――――――――――――――――――――――――――― 30007
+When Hard Drive Divinity (HDD) is on,
+the Processor Units activates and their
+powers are amplified for a stat boost.
+―――――――――――――――――――――――――――――――――――――――― 40007
+
+―――――――――――――――――――――――――――――――――――――――― 50007
+
+―――――――――――――――――――――――――――――――――――――――― 60007
+
+―――――――――――――――――――――――――――――――――――――――― 70007
+
+―――――――――――――――――――――――――――――――――――――――― 80007
+
+―――――――――――――――――――――――――――――――――――――――― 90007
+
+―――――――――――――――――――――――――――――――――――――――― 10008
+Viral Status
+―――――――――――――――――――――――――――――――――――――――― 20008
+Some monsters can be infected by a bug
+during battle that causes them to go
+berserk.
+―――――――――――――――――――――――――――――――――――――――― 30008
+Viral monsters are more powerful than
+their normal forms. If one becomes
+Viral, it can spread to other monsters.
+―――――――――――――――――――――――――――――――――――――――― 40008
+
+―――――――――――――――――――――――――――――――――――――――― 50008
+
+―――――――――――――――――――――――――――――――――――――――― 60008
+
+―――――――――――――――――――――――――――――――――――――――― 70008
+
+―――――――――――――――――――――――――――――――――――――――― 80008
+
+―――――――――――――――――――――――――――――――――――――――― 90008
+
+―――――――――――――――――――――――――――――――――――――――― 10009
+Status Effects
+―――――――――――――――――――――――――――――――――――――――― 20009
+There are five types of status effects.
+―――――――――――――――――――――――――――――――――――――――― 30009
+Poison: Your HP decreases each turn.
+Skill Seal: You will be unable to use
+any Skills.
+―――――――――――――――――――――――――――――――――――――――― 40009
+Virus: If in HDD form, HDD is dispelled.
+If in human form, you can't access HDD.
+Paralysis: You will be unable to act.
+―――――――――――――――――――――――――――――――――――――――― 50009
+Heal: HP recovers slightly each
+turn. Negative status effects can be
+cured with the right Skill or item.
+―――――――――――――――――――――――――――――――――――――――― 60009
+
+―――――――――――――――――――――――――――――――――――――――― 70009
+
+―――――――――――――――――――――――――――――――――――――――― 80009
+
+―――――――――――――――――――――――――――――――――――――――― 90009
+
+―――――――――――――――――――――――――――――――――――――――― 10010
+Item/Skill Jam
+―――――――――――――――――――――――――――――――――――――――― 20010
+In some special boss fights, conditions
+may present themselves where you are
+unable to access items or Skills.
+―――――――――――――――――――――――――――――――――――――――― 30010
+For instance, some special battles may
+lock item and Skill usage for the
+duration of the battle.
+―――――――――――――――――――――――――――――――――――――――― 40010
+Other times, Jammer Pods or similar
+enemies may be deployed that will
+actively block out Skill or item usage.
+―――――――――――――――――――――――――――――――――――――――― 50010
+If you defeat these Jammer Pods or
+any source of the blockage, you will
+be able to use items or Skills again.
+―――――――――――――――――――――――――――――――――――――――― 60010
+
+―――――――――――――――――――――――――――――――――――――――― 70010
+
+―――――――――――――――――――――――――――――――――――――――― 80010
+
+―――――――――――――――――――――――――――――――――――――――― 90010
+
+―――――――――――――――――――――――――――――――――――――――― 10011
+Dungeons
+―――――――――――――――――――――――――――――――――――――――― 20011
+Dungeons contain Treasure Cubes, Save
+Points, Harvest Points, and more. While
+in the dungeon, save at a Save Point.
+―――――――――――――――――――――――――――――――――――――――― 30011
+When you approach the icon, shown here,
+an event will occur. Events may also
+include battles, so be prepared.
+―――――――――――――――――――――――――――――――――――――――― 40011
+
+―――――――――――――――――――――――――――――――――――――――― 50011
+
+―――――――――――――――――――――――――――――――――――――――― 60011
+
+―――――――――――――――――――――――――――――――――――――――― 70011
+
+―――――――――――――――――――――――――――――――――――――――― 80011
+
+―――――――――――――――――――――――――――――――――――――――― 90011
+
+―――――――――――――――――――――――――――――――――――――――― 10012
+Dungeon Actions
+―――――――――――――――――――――――――――――――――――――――― 20012
+In dungeons, you can perform Symbol
+Attacks, jump, or use the Treasure
+Search function.
+―――――――――――――――――――――――――――――――――――――――― 30012
+Press the B button to perform a Symbol
+Attack. Strike a monster with a Symbol
+Attack to get first strike.
+―――――――――――――――――――――――――――――――――――――――― 40012
+Press the A button to jump. Leap up onto
+ledges or hop down to lower levels.
+Use it to cut corners or find shortcuts!
+―――――――――――――――――――――――――――――――――――――――― 50012
+Press the X button to send a Treasure
+Search wave. This will help you locate
+hidden treasures in the dungeons.
+―――――――――――――――――――――――――――――――――――――――― 60012
+
+―――――――――――――――――――――――――――――――――――――――― 70012
+
+―――――――――――――――――――――――――――――――――――――――― 80012
+
+―――――――――――――――――――――――――――――――――――――――― 90012
+
+―――――――――――――――――――――――――――――――――――――――― 10013
+Encounter/Escape
+―――――――――――――――――――――――――――――――――――――――― 20013
+Get first strike with a Symbol Attack,
+but if an enemy touches you from behind,
+the battle will start in their favor.
+―――――――――――――――――――――――――――――――――――――――― 30013
+If you are touched by a monster before
+you can complete your Symbol Attack,
+this will result in a Surprise Attack.
+―――――――――――――――――――――――――――――――――――――――― 40013
+Hug the edge of the field to access the
+Flee command. Be careful since some
+battles will not allow you to escape.
+―――――――――――――――――――――――――――――――――――――――― 50013
+
+―――――――――――――――――――――――――――――――――――――――― 60013
+
+―――――――――――――――――――――――――――――――――――――――― 70013
+
+―――――――――――――――――――――――――――――――――――――――― 80013
+
+―――――――――――――――――――――――――――――――――――――――― 90013
+
+―――――――――――――――――――――――――――――――――――――――― 10014
+Dangerous Monsters
+―――――――――――――――――――――――――――――――――――――――― 20014
+There are dangerous species of monsters
+inhabiting Gamindustri.
+―――――――――――――――――――――――――――――――――――――――― 30014
+They are classified as Dangerous, Risky,
+and Tough enemies. These are listed in
+ascending order of difficulty.
+―――――――――――――――――――――――――――――――――――――――― 40014
+These monsters will not actively pursue
+you, so check the mini map to see
+which enemies are classified as these.
+―――――――――――――――――――――――――――――――――――――――― 50014
+
+―――――――――――――――――――――――――――――――――――――――― 60014
+
+―――――――――――――――――――――――――――――――――――――――― 70014
+
+―――――――――――――――――――――――――――――――――――――――― 80014
+
+―――――――――――――――――――――――――――――――――――――――― 90014
+
+―――――――――――――――――――――――――――――――――――――――― 10015
+Lily System
+―――――――――――――――――――――――――――――――――――――――― 20015
+The Lily System is where you can partner
+up characters by setting one in the
+front and another in the rear.
+―――――――――――――――――――――――――――――――――――――――― 30015
+The higher the Lily Rank, the better the
+support, in addition to the Skills
+and abilities that will be available.
+―――――――――――――――――――――――――――――――――――――――― 40015
+The Lily Rank shows the bond between
+the characters. By fighting together,
+the Lily Rank will gradually rise.
+―――――――――――――――――――――――――――――――――――――――― 50015
+
+―――――――――――――――――――――――――――――――――――――――― 60015
+
+―――――――――――――――――――――――――――――――――――――――― 70015
+
+―――――――――――――――――――――――――――――――――――――――― 80015
+
+―――――――――――――――――――――――――――――――――――――――― 90015
+
+―――――――――――――――――――――――――――――――――――――――― 10016
+Quests
+―――――――――――――――――――――――――――――――――――――――― 20016
+Quests can be taken at the Guilds in
+any Land. Clear the Quest's requirements
+and then claim your reward at the Guild.
+―――――――――――――――――――――――――――――――――――――――― 30016
+Here is a list of Quest-related icons
+and their purpose.
+―――――――――――――――――――――――――――――――――――――――― 40016
+Also, Quests necessary to advance the
+story will be identified with
+[brackets].
+―――――――――――――――――――――――――――――――――――――――― 50016
+
+―――――――――――――――――――――――――――――――――――――――― 60016
+
+―――――――――――――――――――――――――――――――――――――――― 70016
+
+―――――――――――――――――――――――――――――――――――――――― 80016
+
+―――――――――――――――――――――――――――――――――――――――― 90016
+
+―――――――――――――――――――――――――――――――――――――――― 10017
+Quest Rank
+―――――――――――――――――――――――――――――――――――――――― 20017
+Quests carry a rank. Your rank at the
+Guild rises when you pass select Quests,
+to allow access higher-ranked Quests.
+―――――――――――――――――――――――――――――――――――――――― 30017
+Quests that will raise your rank will be
+marked. These are very challenging,
+so be very prepared!
+―――――――――――――――――――――――――――――――――――――――― 40017
+
+―――――――――――――――――――――――――――――――――――――――― 50017
+
+―――――――――――――――――――――――――――――――――――――――― 60017
+
+―――――――――――――――――――――――――――――――――――――――― 70017
+
+―――――――――――――――――――――――――――――――――――――――― 80017
+
+―――――――――――――――――――――――――――――――――――――――― 90017
+
+―――――――――――――――――――――――――――――――――――――――― 10018
+Remake System
+―――――――――――――――――――――――――――――――――――――――― 20018
+The Remake System is a feature where
+you can use Plans which adds items,
+enemies, new game systems and more.
+―――――――――――――――――――――――――――――――――――――――― 30018
+Obtaining Plans will add the proper
+subject which can be created through the
+Plans obtained under the Plans menu.
+―――――――――――――――――――――――――――――――――――――――― 40018
+The subjects listed under the Plans menu
+can be created through use of materials
+obtained through dungeon and drops.
+―――――――――――――――――――――――――――――――――――――――― 50018
+Some Plans can be toggled ON/OFF, but
+cannot be toggled while in a dungeon, so
+make the change while outside a dungeon.
+―――――――――――――――――――――――――――――――――――――――― 60018
+
+―――――――――――――――――――――――――――――――――――――――― 70018
+
+―――――――――――――――――――――――――――――――――――――――― 80018
+
+―――――――――――――――――――――――――――――――――――――――― 90018
+
+―――――――――――――――――――――――――――――――――――――――― 10019
+Plans
+―――――――――――――――――――――――――――――――――――――――― 20019
+Plans adds subjects which can be created
+under the Remake System. Confirm the
+Plans you obtained at the Plans menu.
+―――――――――――――――――――――――――――――――――――――――― 30019
+These Plans can be obtained in dungeons,
+as rewards, from enemy drops, from
+events and more.
+―――――――――――――――――――――――――――――――――――――――― 40019
+
+―――――――――――――――――――――――――――――――――――――――― 50019
+
+―――――――――――――――――――――――――――――――――――――――― 60019
+
+―――――――――――――――――――――――――――――――――――――――― 70019
+
+―――――――――――――――――――――――――――――――――――――――― 80019
+
+―――――――――――――――――――――――――――――――――――――――― 90019
+
+―――――――――――――――――――――――――――――――――――――――― 10020
+Discs
+―――――――――――――――――――――――――――――――――――――――― 20020
+You can create unique equipable items
+by burning Idea Chips (abilities) onto
+Blank Discs.
+―――――――――――――――――――――――――――――――――――――――― 30020
+Depending on the Idea Chips used, a
+Godly Game may result, which will
+grant you an additional ability.
+―――――――――――――――――――――――――――――――――――――――― 40020
+
+―――――――――――――――――――――――――――――――――――――――― 50020
+
+―――――――――――――――――――――――――――――――――――――――― 60020
+
+―――――――――――――――――――――――――――――――――――――――― 70020
+
+―――――――――――――――――――――――――――――――――――――――― 80020
+
+―――――――――――――――――――――――――――――――――――――――― 90020
+
+―――――――――――――――――――――――――――――――――――――――― 10021
+Obtaining Discs
+―――――――――――――――――――――――――――――――――――――――― 20021
+Obtain medals defeating Tough enemies
+and more. Exchange them with the
+Mysterious Man in Planeptune for Discs.
+―――――――――――――――――――――――――――――――――――――――― 30021
+The Idea Chips for the Blank Discs can
+be obtained from various sources.
+―――――――――――――――――――――――――――――――――――――――― 40021
+
+―――――――――――――――――――――――――――――――――――――――― 50021
+
+―――――――――――――――――――――――――――――――――――――――― 60021
+
+―――――――――――――――――――――――――――――――――――――――― 70021
+
+―――――――――――――――――――――――――――――――――――――――― 80021
+
+―――――――――――――――――――――――――――――――――――――――― 90021
+
+―――――――――――――――――――――――――――――――――――――――― 10022
+Colosseum
+―――――――――――――――――――――――――――――――――――――――― 20022
+In the Colosseum, you will battle
+powerful foes that do not appear in
+any dungeons.
+―――――――――――――――――――――――――――――――――――――――― 30022
+If you lose in the Colosseum, you will
+not receive a Game Over or lose any
+credits.
+―――――――――――――――――――――――――――――――――――――――― 40022
+However, if you win, you will receive
+rare items or a metaphorical fistful
+of credits!
+―――――――――――――――――――――――――――――――――――――――― 50022
+
+―――――――――――――――――――――――――――――――――――――――― 60022
+
+―――――――――――――――――――――――――――――――――――――――― 70022
+
+―――――――――――――――――――――――――――――――――――――――― 80022
+
+―――――――――――――――――――――――――――――――――――――――― 90022
+
+―――――――――――――――――――――――――――――――――――――――― 10023
+Combo Setup
+―――――――――――――――――――――――――――――――――――――――― 20023
+Create combos to use in battle via
+Combo Setup. Attacks have a CP set. You
+can only set attacks to your CP limit.
+―――――――――――――――――――――――――――――――――――――――― 30023
+
+―――――――――――――――――――――――――――――――――――――――― 40023
+
+―――――――――――――――――――――――――――――――――――――――― 50023
+
+―――――――――――――――――――――――――――――――――――――――― 60023
+
+―――――――――――――――――――――――――――――――――――――――― 70023
+
+―――――――――――――――――――――――――――――――――――――――― 80023
+
+―――――――――――――――――――――――――――――――――――――――― 90023
+
+―――――――――――――――――――――――――――――――――――――――― 10024
+Linked Attacks
+―――――――――――――――――――――――――――――――――――――――― 20024
+An EXE Drive Skill using multiple
+characters is a Linked Attack. These
+attacks will expend the EXE Drive Gauge.
+―――――――――――――――――――――――――――――――――――――――― 30024
+There are two types of Linked Attacks --
+Coupling Skills and Formation Skills.
+―――――――――――――――――――――――――――――――――――――――― 40024
+Coupling Skills are Linked Attacks by
+partners. The pair must be in the same
+form in order to perform the attack.
+―――――――――――――――――――――――――――――――――――――――― 50024
+Formation Skills are Linked Attacks by
+those active in battle. This requires
+the characters to be in the same form.
+―――――――――――――――――――――――――――――――――――――――― 60024
+
+―――――――――――――――――――――――――――――――――――――――― 70024
+
+―――――――――――――――――――――――――――――――――――――――― 80024
+
+―――――――――――――――――――――――――――――――――――――――― 90024
+
+―――――――――――――――――――――――――――――――――――――――― 10025
+City Controls
+―――――――――――――――――――――――――――――――――――――――― 20025
+This is the city presided over by
+CPU Purple Heart, Planeptune.
+―――――――――――――――――――――――――――――――――――――――― 30025
+A city will list facilities along with a
+menu to talk with the inhabitants.
+To access, select the proper item.
+―――――――――――――――――――――――――――――――――――――――― 40025
+Whenever an event is available, an event
+icon will appear by the relevant
+facility or inhabitant as shown.
+―――――――――――――――――――――――――――――――――――――――― 50025
+You can also go to the Museum menu
+to access the Album and Audio function.
+―――――――――――――――――――――――――――――――――――――――― 60025
+You can examine previously seen CG
+images in the Album. You can listen to
+different BGMs from the Music section.
+―――――――――――――――――――――――――――――――――――――――― 70025
+Press the SELECT button in battle or in
+a dungeon to open the Quick Help screen.
+Refer here for help information.
+―――――――――――――――――――――――――――――――――――――――― 80025
+
+―――――――――――――――――――――――――――――――――――――――― 90025
+
+―――――――――――――――――――――――――――――――――――――――― EOF

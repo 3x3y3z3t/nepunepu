@@ -1,0 +1,109 @@
+―――――――――――――――――――――――――――――――――――――――― 110000
+IDS_SCR_TITLE
+―――――――――――――――――――――――――――――――――――――――― 10000
+Script
+―――――――――――――――――――――――――――――――――――――――― 110001
+IDS_SCR_NEPSTA_REVIEW
+―――――――――――――――――――――――――――――――――――――――― 10001
+Nepstation/Review
+―――――――――――――――――――――――――――――――――――――――― 110010
+IDS_SCR_NEPSTA_REVIEW_1
+―――――――――――――――――――――――――――――――――――――――― 10010
+Nepstation/Review/Quests
+―――――――――――――――――――――――――――――――――――――――― 110011
+IDS_SCR_NEPSTA_REVIEW_2
+―――――――――――――――――――――――――――――――――――――――― 10011
+You did so many quests! Like, -all- the quests!#nThey don't relate to the main story, but the#nfact that you've done every little thing must#nmean you really enjoy this game!
+―――――――――――――――――――――――――――――――――――――――― 110012
+IDS_SCR_NEPSTA_REVIEW_3
+―――――――――――――――――――――――――――――――――――――――― 10012
+Well, look at you! You've done a lot of#nthese quest things, huh? But you've#nstill got one rank up to go! Sooooo close!
+―――――――――――――――――――――――――――――――――――――――― 110013
+IDS_SCR_NEPSTA_REVIEW_4
+―――――――――――――――――――――――――――――――――――――――― 10013
+So you've done about half the quests.#nDoing these quests is kinda one of this#ngame's features, so how about you try to#nstep it up a bit?
+―――――――――――――――――――――――――――――――――――――――― 110014
+IDS_SCR_NEPSTA_REVIEW_5
+―――――――――――――――――――――――――――――――――――――――― 10014
+Ignoring the quests and just plowing through#nthe main scenario is -one- way to play,#nI -guess-. But don't forget quests are here#nto make things even more fun for you!
+―――――――――――――――――――――――――――――――――――――――― 110015
+IDS_SCR_NEPSTA_REVIEW_6
+―――――――――――――――――――――――――――――――――――――――― 10015
+It's not even worth giving you a score.#nAre you even -trying- to enjoy the game?
+―――――――――――――――――――――――――――――――――――――――― 110020
+IDS_SCR_NEPSTA_REVIEW_7
+―――――――――――――――――――――――――――――――――――――――― 10020
+Nepstation/Review/Share
+―――――――――――――――――――――――――――――――――――――――― 110021
+IDS_SCR_NEPSTA_REVIEW_8
+―――――――――――――――――――――――――――――――――――――――― 10021
+This is like a shares bonanza!#nYou rock my socks off for getting this many!#nIt's no exaggeration to say that you control#nthe desires of this era!
+―――――――――――――――――――――――――――――――――――――――― 110022
+IDS_SCR_NEPSTA_REVIEW_9
+―――――――――――――――――――――――――――――――――――――――― 10022
+That's an impressive number of shares.#nThis kind of buildup will have an effect#non the party's overall fighting strength,#nso remain resolute and gather even more!
+―――――――――――――――――――――――――――――――――――――――― 110023
+IDS_SCR_NEPSTA_REVIEW_10
+―――――――――――――――――――――――――――――――――――――――― 10023
+Based on Planeptune's shares, you've done#nthe lowest required amount of work,#nbut that won't be enough! You're behind#nthe other CPUs, y'know!
+―――――――――――――――――――――――――――――――――――――――― 110024
+IDS_SCR_NEPSTA_REVIEW_11
+―――――――――――――――――――――――――――――――――――――――― 10024
+Are you blasting through the story while#nignoring the distribution of shares?#nWhen you regret not getting more,#nit'll be way, way too late...seriously...
+―――――――――――――――――――――――――――――――――――――――― 110025
+IDS_SCR_NEPSTA_REVIEW_12
+―――――――――――――――――――――――――――――――――――――――― 10025
+Such a paltry number of shares...#nAre you really trying to get Neptune#nback to her own dimension!?
+―――――――――――――――――――――――――――――――――――――――― 110030
+IDS_SCR_NEPSTA_REVIEW_13
+―――――――――――――――――――――――――――――――――――――――― 10030
+Nepstation/Review/Scouts
+―――――――――――――――――――――――――――――――――――――――― 110031
+IDS_SCR_NEPSTA_REVIEW_14
+―――――――――――――――――――――――――――――――――――――――― 10031
+Let's just say that your use of the#nScout System is unmatched! The discoveries#nmade by your Scouts will be discussed in#nGamindustri for centuries to come!
+―――――――――――――――――――――――――――――――――――――――― 110032
+IDS_SCR_NEPSTA_REVIEW_15
+―――――――――――――――――――――――――――――――――――――――― 10032
+You're taking advantage of the Scout System#npretty well, but to fully master it,#nthere's a little more to go. Time to explore#nthose dungeons down to each speck of dirt!
+―――――――――――――――――――――――――――――――――――――――― 110033
+IDS_SCR_NEPSTA_REVIEW_16
+―――――――――――――――――――――――――――――――――――――――― 10033
+You've kinda made use of the Scout System.#nBut we can't say you're using it -well-.#nThe Scouts themselves probably don't feel#nlike they've had any fun adventures, either.
+―――――――――――――――――――――――――――――――――――――――― 110034
+IDS_SCR_NEPSTA_REVIEW_17
+―――――――――――――――――――――――――――――――――――――――― 10034
+You've barely touched the Scout System!#nUsing it will only -add- to your enjoyment#nof the game, so how about not being lazy?
+―――――――――――――――――――――――――――――――――――――――― 110035
+IDS_SCR_NEPSTA_REVIEW_18
+―――――――――――――――――――――――――――――――――――――――― 10035
+You haven't -touched- the Scout System...#nKnowing that, what's the point in giving#nyou a review?
+―――――――――――――――――――――――――――――――――――――――― 110040
+IDS_SCR_NEPSTA_REVIEW_19
+―――――――――――――――――――――――――――――――――――――――― 10040
+Nepstation/Review/Enemy KOs
+―――――――――――――――――――――――――――――――――――――――― 110041
+IDS_SCR_NEPSTA_REVIEW_20
+―――――――――――――――――――――――――――――――――――――――― 10041
+You've beaten more baddies than anyone in#nthe whole wide multiverse! With this many#nenemies defeated, Gamindustri -better- be#nat peace, jeez!
+―――――――――――――――――――――――――――――――――――――――― 110042
+IDS_SCR_NEPSTA_REVIEW_21
+―――――――――――――――――――――――――――――――――――――――― 10042
+You've defeated a lot of bad guys! Amazing!#nBut...not quite the best! If you try just an#neensy-teensy bit harder, you can get a#nbetter score. Keep it up!
+―――――――――――――――――――――――――――――――――――――――― 110043
+IDS_SCR_NEPSTA_REVIEW_22
+―――――――――――――――――――――――――――――――――――――――― 10043
+You beat an average number of foes.#nIf you fight more, you might realize#nyou'll have more fun actually#n-playing- the game.
+―――――――――――――――――――――――――――――――――――――――― 110044
+IDS_SCR_NEPSTA_REVIEW_23
+―――――――――――――――――――――――――――――――――――――――― 10044
+Uh... Hmm. Do you just suck at fighting?#nIf you only run away, the game won't be#nvery fun...
+―――――――――――――――――――――――――――――――――――――――― 110045
+IDS_SCR_NEPSTA_REVIEW_24
+―――――――――――――――――――――――――――――――――――――――― 10045
+This is an RPG with a fun, fast-paced battle#nsystem, and you've hardly fought at all.#nNeptune and her crew must be suffering from#ncrippling depression thanks to you.
+―――――――――――――――――――――――――――――――――――――――― 110099
+IDS_SCR_NEPSTA_REVIEW_END
+―――――――――――――――――――――――――――――――――――――――― 10099
+Nepstation/Review
+―――――――――――――――――――――――――――――――――――――――― EOF
